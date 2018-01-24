@@ -38,3 +38,6 @@ spring.jpa.show-sql=true
 # hibernate
 https://www.thoughts-on-java.org/tips-to-boost-your-hibernate-performance/
 
+hibernate.cfg.xml" under "/src/main/resources
+https://stackoverflow.com/questions/30947542/hibernate-tutorial-where-to-put-mapping-file
+
