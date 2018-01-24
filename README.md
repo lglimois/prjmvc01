@@ -34,3 +34,7 @@ Dans application.properties
 logging.level.org.hibernate.SQL=DEBUG
 logging.level.org.hibernate.type=TRACE
 spring.jpa.show-sql=true 
+
+# hibernate
+https://www.thoughts-on-java.org/tips-to-boost-your-hibernate-performance/
+
