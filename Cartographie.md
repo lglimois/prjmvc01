@@ -23,8 +23,8 @@ see: https://github.com/kbastani/neo4j-movies-template
 ## Projet exemple:
   Git:
   
-    https://github.com/neo4j-examples/neo4j-movies-template
+    see https://github.com/neo4j-examples/neo4j-movies-template
   
   video Youtube pour installer et tester
   
-    https://www.youtube.com/watch?v=O71B2KcTD6A&feature=youtu.be
+    see https://www.youtube.com/watch?v=O71B2KcTD6A&feature=youtu.be
