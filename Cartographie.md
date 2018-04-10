@@ -30,9 +30,15 @@ see: https://github.com/kbastani/neo4j-movies-template
     see https://www.youtube.com/watch?v=O71B2KcTD6A&feature=youtu.be
 
   demarrage
+  
     api
+    
       cd api
+      
        node app.js
+       
     web
+    
       cd web
+      
       gulp
