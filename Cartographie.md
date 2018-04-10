@@ -6,6 +6,12 @@
    edition du fichier de conf
      activer l'ip et le port
      url: http://<IP>:7474/browser/
+
+## D3JS et Angular
+  
+  https://blog.octo.com/retour-dexperience-angularjs-d3-js-au-service-de-la-dataviz/
+
+
 ## tuto
 
 For loading data,
